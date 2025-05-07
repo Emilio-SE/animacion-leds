@@ -12,7 +12,7 @@ void setup() {
     // Iniciar efecto arcoíris
     xTaskCreate(
         efectoArcoiris,                     // Función del efecto
-        "Muestra leds con efecto Arcoiris", // Nombre descriptivo
+        "animacionLeds",                    // Nombre descriptivo
         2048,                               // Stack size
         NULL,                               // Parámetros
         1,                                  // Prioridad
