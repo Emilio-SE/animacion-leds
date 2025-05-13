@@ -565,23 +565,23 @@
         <mxCell id="7ZC9SHjTnYwZWPhHYWJi-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Inicia animación de leds&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="323.75" y="950" width="175.62" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7ZC9SHjTnYwZWPhHYWJi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="7ZC9SHjTnYwZWPhHYWJi-19" target="7ZC9SHjTnYwZWPhHYWJi-21">
+        <mxCell id="7ZC9SHjTnYwZWPhHYWJi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="7ZC9SHjTnYwZWPhHYWJi-19" target="7ZC9SHjTnYwZWPhHYWJi-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7ZC9SHjTnYwZWPhHYWJi-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Calcula nuevo color&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="323.75" y="1060" width="175.62" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7ZC9SHjTnYwZWPhHYWJi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="7ZC9SHjTnYwZWPhHYWJi-21" target="7ZC9SHjTnYwZWPhHYWJi-23">
+        <mxCell id="7ZC9SHjTnYwZWPhHYWJi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7ZC9SHjTnYwZWPhHYWJi-29" target="7ZC9SHjTnYwZWPhHYWJi-23">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZC9SHjTnYwZWPhHYWJi-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Actualiza el color de los leds&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="323.75" y="1170" width="175.62" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7ZC9SHjTnYwZWPhHYWJi-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.543;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="7ZC9SHjTnYwZWPhHYWJi-23" target="7ZC9SHjTnYwZWPhHYWJi-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7ZC9SHjTnYwZWPhHYWJi-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Espera 50 ticks&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="570" y="1170" width="175.62" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZC9SHjTnYwZWPhHYWJi-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Actualiza el color de los leds&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="327.06" y="1165" width="169" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
